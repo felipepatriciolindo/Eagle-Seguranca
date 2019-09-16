@@ -1,0 +1,25 @@
+h1{ 
+   text-align: center;
+   height:10px;
+   font-size: 40px;
+   margin: 12px;
+   margin-bottom: 100px;
+}
+h2{
+    font-size: 30px;
+    margin-bottom: 75px;
+
+}
+img{
+    width:550px;
+    margin:0px;
+    height:500px ;
+}
+p{
+    font-size: 1.25em;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+div {
+    float: left;
+    margin-left: 60px;
+}
